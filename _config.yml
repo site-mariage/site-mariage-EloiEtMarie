@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Gwenaëlle et Pierre
+title: Alban et Claire
 email: thi.suzanne@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Site du mariage de Gwenaëlle et Pierre
+  Site du mariage d'Alban et Claire
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://mariage-gwenaelleetpierre.fr" # the base hostname & protocol for your site
+url: "http://albanetclaire.fr" # the base hostname & protocol for your site
 github_username:  thizanne
 
 # Build settings
