@@ -101,7 +101,7 @@ a:focus {
 
 #bloc_page > header nav li {
     display: inline-block;
-    width: 19.5%;
+    width: 16.2%;
     height: 50px;
     background-color: $header-nav-color;
     margin: 0px;
@@ -227,6 +227,10 @@ a:focus {
 
 #contenu .droite {
     float: right;
+}
+
+.chiffre_romain {
+    font-variant: small-caps;
 }
 
 .avec_image_centree, .avec_image_droite, .avec_image_gauche {
