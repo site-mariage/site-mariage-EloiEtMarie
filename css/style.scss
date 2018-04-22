@@ -192,6 +192,9 @@ a:focus {
     text-align: left;
 }
 
+#contenu h2, #contenu h3 {
+    color: $pagetitle-color;
+}
 
 #contenu h2 {
     font-family: "Gabrielle";
