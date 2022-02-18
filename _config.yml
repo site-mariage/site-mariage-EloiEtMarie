@@ -6,17 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Pierre-Louis et Albane
+title: Éloi et Marie
 email: thi.suzanne@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Site du mariage de Pierre-Louis et Albane
-baseurl: "/site-mariage-PierreLouisEtAlbane" # the subpath of your site, e.g. /blog
-url: "https://site-mariage.github.io/site-mariage-PierreLouisEtAlbane/" # the base hostname & protocol for your site
+  Site du mariage d'Éloi et Marie
+baseurl: "/site-mariage-EloiEtMarie" # the subpath of your site, e.g. /blog
+url: "https://eloietmarie.com/" # the base hostname & protocol for your site
 github_username:  thizanne
 
 # Build settings
 markdown: kramdown
 
 # Global variables
-url-liste: http://www.millemercismariage.com/pierrelouisalbane/liste.html
-prestataire-liste: "Mille Mercis"
+url-liste: http://www.example.com
+prestataire-liste: "[???]"
