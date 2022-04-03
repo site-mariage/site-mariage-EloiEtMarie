@@ -258,18 +258,21 @@ a:focus {
     margin-top: 10px;
     margin-left: 50px;
     float: right;
+    max-width: 25%;
 }
 
 .avec_image_gauche img {
     margin-top: 10px;
     margin-right: 50px;
     float: left;
+    max-width: 25%;
 }
 
 .avec_image_centree img {
     margin-top: 35px;
     margin-bottom: 40px;
     margin: auto;
+    max-width: 35%;
 }
 
 #contenu .cadre_10 {
