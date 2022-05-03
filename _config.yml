@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Éloi et Marie
+title: Eloi et Marie
 email: thi.suzanne@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Site du mariage d'Éloi et Marie
+  Site du mariage d'Eloi et Marie
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://eloietmarie.com/" # the base hostname & protocol for your site
 github_username:  thizanne
